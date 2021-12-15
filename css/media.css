@@ -1,0 +1,538 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+
+/*header part start*/
+.sm_w{
+	width: 85% !important;
+}
+/*header part end*/
+
+/*banner part start*/
+.ban_content {
+    padding-left: 0px;
+}
+.ban_content h1{
+    font-size: 50px;
+    text-align: center;
+}
+.c_white {
+    margin-right: 0px;
+}
+.c_btn:before{
+    display: none;
+}
+.c_btn a{
+    padding: 15px 40px;
+}
+.c_btn {
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+/*banner part end*/
+
+/*about part start*/
+.about{
+    padding: 40px 0px;
+}
+.com_content {
+    text-align: center;
+}
+.com_content h1{
+    font-size: 50px;
+}
+.abo_icon {
+    margin-top: 10px;
+}
+.abo_icon i{
+    font-size: 50px;
+}
+.abo_icon:before{
+    width: 80%;
+    left: 10%;
+}
+.about_content {
+    padding: 10px 0px;
+    text-align: center;
+}
+.about_content h2{
+    margin: 15px 0px;
+    font-size: 30px;
+}
+.about_content p{
+    padding: 0px;
+}
+.com_content p {
+    margin-top: 15px;
+    margin-bottom: 10px;
+}
+/*about part end*/
+
+/*service part start*/
+.service{
+    padding: 40px 0px;
+}
+.ser_content {
+    padding: 10px 0px;
+    text-align: center;
+}
+.ser_content h2{
+    margin: 15px 0px;
+    font-size: 30px;
+}
+.com_content p{
+    padding: 0;
+}
+.ser_content > i{
+    font-size: 50px;
+}
+.c_btn_ser{
+    margin-top: 25px;
+}
+/*service part end*/
+
+/*contact part start*/
+.contact{
+    height: 400px;
+}
+.cont_content h2{
+    font-size: 40px;
+}
+.cont_content p{
+    font-size: 18px;
+}
+.cont_p{
+    margin: 0;
+}
+.cont_btn{
+    margin: 50px 0px;
+}
+.cont_btn a{
+    padding: 16px 35px;
+    font-size: 16px;
+}
+.cont_btn .c_dot{
+    
+    font-size: 12px;
+}
+/*contact part end*/
+
+/*form part start*/
+.c_form{
+    padding: 40px 0px;
+}
+.fom_btn{
+    margin-top: 30px;
+    margin-bottom: 0;
+}
+.form_content input{
+    font-size: 18px;
+}
+/*form part end*/
+
+
+/*footer part start*/
+.footer {
+    padding: 20px 0px;
+}
+.f_left {
+    text-align: center;
+}
+.f_left p{
+    font-size: 14px;
+}
+.fr_left ul li a{
+    font-size: 14px;
+}
+.f_right {
+    margin: 15px 0px;
+    text-align: center;
+}
+.fr_right ul {
+
+    text-align: center;
+}
+/*footer part end*/
+
+ }
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) { 
+
+/*banner part start*/
+.ban_content {
+    padding-left: 30px;
+}
+.ban_content h1{
+    font-size: 50px;
+}
+.c_white {
+    margin-right: 65px;
+}
+.c_btn:before{
+    display: none;
+}
+.c_btn a{
+    padding: 15px 40px;
+}
+.c_btn {
+    margin-top: 70px;
+    
+}
+
+/*banner part end*/
+
+/*about part start*/
+.about{
+    padding: 50px 0px;
+}
+.com_content h1{
+    font-size: 50px;
+}
+.abo_icon i{
+    font-size: 60px;
+}
+.abo_icon:before{
+    width: 150px;
+    top: 47%;
+}
+.about_content h2{
+    font-size: 35px;
+}
+.about_content p{
+    padding: 0px;
+}
+.com_content p {
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+/*about part end*/
+
+/*service part start*/
+.service{
+    padding: 50px 0px;
+}
+.ser_content > i{
+    font-size: 50px;
+}
+.ser_content h2{
+    font-size: 19px;
+}
+.ser_content p {
+   
+    padding-right: 0;
+}
+.c_btn_ser {
+    margin-top: 40px;
+}
+.c_btn_ser a{
+    padding: 15px 20px;
+    font-size: 13px;
+}
+.c_dot {
+    margin-right: 10px;
+    font-size: 10px;
+    
+}
+/*service part end*/
+
+/*contact part start*/
+
+.cont_content h2{
+    font-size: 50px;
+}
+.cont_content p{
+    font-size: 18px;
+}
+
+.cont_btn{
+    margin: 50px 0px;
+}
+.cont_btn a{
+    padding: 16px 40px;
+    font-size: 16px;
+}
+.cont_btn .c_dot{
+    
+    font-size: 12px;
+}
+
+/*contact part end*/
+
+/*form part start*/
+.c_form{
+    padding: 50px 0px;
+}
+.fom_btn{
+    margin-top: 40px;
+    margin-bottom: 0;
+}
+.form_content input{
+    font-size: 19px;
+}
+/*form part end*/
+
+/*footer part start*/
+.footer {
+    padding: 20px 0px;
+}
+.f_left {
+    text-align: center;
+}
+.f_right {
+    margin: 15px 0px;
+    text-align: center;
+}
+.fr_right ul {
+
+    text-align: center;
+}
+/*footer part end*/
+
+ }
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+
+/*banner part start*/
+.ban_content {
+    padding-left: 95px;
+}
+.ban_content h1{
+    font-size: 60px;
+}
+.c_white {
+    margin-right: 50px;
+}
+.c_btn:before{
+    display: none;
+}
+
+/*banner part end*/
+
+/*about part start*/
+.about{
+    padding: 70px 0px;
+}
+.com_content h1{
+    font-size: 60px;
+}
+.abo_icon:before{
+    width: 180px;
+    top: 48%;
+}
+.about_content h2{
+    font-size: 40px;
+}
+.about_content p{
+    padding: 0px;
+}
+/*about part end*/
+
+/*service part start*/
+.service{
+    padding: 70px 0px;
+}
+.ser_content h2{
+    font-size: 27px;
+}
+.c_btn_ser {
+    margin-top: 40px;
+}
+.c_btn_ser a{
+    padding-left: 29px;
+    font-size: 16px;
+}
+/*service part end*/
+
+/*contact part start*/
+.cont_btn{
+    margin: 60px 0px;
+}
+/*contact part end*/
+
+/*form part start*/
+.c_form{
+    padding: 70px;
+}
+.form_content input{
+    font-size: 20px;
+}
+/*form part end*/
+
+/*footer part start*/
+.footer {
+    padding: 25px 0px;
+}
+.f_left {
+    text-align: center;
+}
+.f_right {
+    margin: 15px 0px;
+    text-align: center;
+}
+.fr_right ul {
+
+    text-align: center;
+}
+/*footer part end*/
+
+ }
+
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+
+/*header part start*/
+.menu_two ul {
+    margin-left: 135px;
+}
+.menu_two ul li {
+    margin-right: 20px;
+    
+}
+/*header part end*/
+
+/*banner part start*/
+.ban_content {
+    padding-left: 45px;
+}
+.ban_content h1{
+    font-size: 60px;
+}
+.c_btn:before{
+    right: 55%;
+}
+.c_btn:hover.c_btn:before{
+    right: 55%;
+
+}
+/*banner part end*/
+
+/*service part start*/
+.c_btn_ser:before {
+    left: 70%;
+}
+/*service part end*/
+
+/*gallery part start*/
+.g_menu ul li{
+    margin-right: 38px !important;
+}
+/*gallery part end*/
+
+/*slider part start*/
+.sli_btn:before{
+    
+    left: 85%;
+}
+.cus_slider {
+    top: 260px;
+    right: -272px;
+    
+}
+.slider_text {
+    padding-left: 75px;
+}
+.sli_right{
+    padding-left: 20px;
+}
+.sli_r_text h2{
+    font-size: 50px;
+}
+.sli_r_text h2:before{
+    width: 140px;
+}
+/*slider part end*/
+
+/*contact part start*/
+.cont_btn:before{
+    left: 65%;
+}
+.cont_content h2{
+    font-size: 55px;
+}
+.cont_content p{
+    font-size: 20px;
+}
+/*contact part end*/
+
+/*form part start*/
+.fom_btn:before{
+    left: 40%;
+}
+/*form part end*/
+
+/*footer part start*/
+.f_left p{
+    font-size: 16px;
+}
+.fr_left ul li a{
+    font-size: 16px;
+}
+/*footer part end*/
+
+
+
+ }
+
+/*Extra large devices (Extra large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) {  }
+
+/*Extra large devices (Extra Extra large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+
+
+/*header part start*/
+.menu_two ul {
+    margin-left: 425px;
+}
+/*header part end*/
+
+/*banner part start*/
+.ban_content {
+    padding-left: 130px;
+}
+.c_btn:before{
+    right: 63%;
+}
+.c_btn:hover.c_btn:before{
+    right: 62%;
+}
+/*banner part end*/
+
+/*service part start*/
+.c_btn_ser:before {
+    left: 50%;
+}
+/*service part end*/
+
+/*slider part start*/
+.sli_btn:before{
+    
+    left: 85%;
+}
+.cus_slider {
+    
+    right: -300px;
+    
+}
+.slider_text {
+    padding-left: 90px;
+}
+/*slider part end*/
+
+/*contact part start*/
+.cont_btn:before{
+    left: 61%;
+}
+/*contact part end*/
+
+/*form part start*/
+.fom_btn:before{
+    left: 28%;
+}
+/*form part end*/
+
+ }
